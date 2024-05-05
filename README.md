@@ -1,1 +1,1 @@
-some basic pyhton commands
+100 days code challange python
