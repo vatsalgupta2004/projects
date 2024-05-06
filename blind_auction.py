@@ -1,5 +1,17 @@
 #blind auction
-from project3.blind_auction_art import logo
+logo = '''
+                         ___________
+                         \         /
+                          )_______(
+                          |"""""""|_.-._,.---------.,_.-._
+                          |       | | |               | | ''-..
+                          |       |_| |_             _| |_..-''
+                          |_______| '-' `'---------'` '-'
+                          )"""""""(
+                         /_________\\
+                       .-------------.
+                      /_______________\\
+'''
 print("\nBLIND AUCTION HOUSE")
 print(logo)
 condition = True
