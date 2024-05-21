@@ -1,7 +1,7 @@
 from turtle import Screen
 import time
 from project3.snake_game.project_snake import Snake
-from project_17_food import Food
+from project_food import Food
 from project3.snake_game.project_scoreboard import Score
 
 obj_screen = Screen()
